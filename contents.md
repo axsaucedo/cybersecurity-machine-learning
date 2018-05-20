@@ -65,11 +65,11 @@
 > The Institute & the Ethical ML Pledge
 > <br>
 > <br>
-> Intuition on practial AI
+> ML, Cyber and Implications
 >
-> Evolution of cyber
-> 
 > Impact in economy
+> 
+> Next steps
 
 #### Followed by a deep dive discussion
 
@@ -85,7 +85,7 @@
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" -->
 
-#### Our vision is to drive conscious human-driven AGI
+#### Our vision is to set standards and industry frameworks for industrial development of AI
 <iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
 
 [NEXT]
@@ -147,7 +147,7 @@ industry frameworks that ensure the long-term ethical development of AI
 [NEXT SECTION]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-# 2. Intuition on AI & Machine Learning
+# 2. Intuition on AI, Machine Learning
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -163,7 +163,7 @@ industry frameworks that ensure the long-term ethical development of AI
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-## What really is AI
+## Let's go beyond the hype
 
 The general label for a field of study, specifically
 the study of whatever might answer the question of 
@@ -336,7 +336,7 @@ Keep adjusting the weights...
 
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="slide-in fade-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## Finding the weights!
 
 <img width="40%" src="images/classification-line.png">
@@ -346,7 +346,7 @@ When it finishes, we find optimised weights and biases
 i.e. **$f(x̄)$ = triangle  if ($0.3 x̄ + 10$) > 0.5 else square**
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="fade-in slide-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## Now predict new data
 
 ![classification_small](images/classification-newinput.png)
@@ -423,26 +423,11 @@ This gives more flexibility for learning
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-#### A breakthrough in machine learning called
-
-# backpropagation
-
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-
-Which allowed for neural networks to be MUCH deeper
-
-#### and hence learn from tons of more data
-
-which allows to learn more complex things
-
-
-[NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Deep Networks &mdash; many hidden layers
 
 ![deep_rnn_diagram](images/rnn-deepfeedforward.svg)
+
+## Possible due to backprop!
 
 
 
@@ -495,9 +480,56 @@ You are now an expert on Machine Learning!
 [NEXT SECTION]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-# 3. Applications in sectors
+# 3. Cybersecurity in an AI-enabled world
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## What is cybersecurity?
+
+<br>
+The state of being protected against the 
+### criminal or unauthorized 
+use of electronic data and systems, 
+### and 
+the measures taken to achieve this through
+### technologies, processes and controls 
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+# Cyberattacks
+
+* Malware (Viruses, Ransomware [Wannacry], etc)
+* Phishing
+* Spyware / adware
+* Man in teh middle
+* Denial of Service (DoS)
+* Vulnerable Software
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## Most attacks involve
+
+# Social Engineering
+Or the use of deception to manipulate individuals into
+performing tasks or
+divulging confidential information that may be used for fraudulent purposes
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+# Famous Social Engineering
+
+* Associated Press Twitter hijack
+* 2013 Yahoo Customer Account Compromise
+* 2014 Sony Pictures Hack
+* 2011 RSA SecurID Phishing Attack
+* Iran's Stuxnet Flash Drives on the floor
+
+
+[NEXT SECTION]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 
