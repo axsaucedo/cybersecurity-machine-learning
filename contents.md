@@ -751,7 +751,8 @@ Article:
 [NEXT SECTION]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
-# 4. AI impact in industry
+# 4. Next session: 
+# AI-Cyber impact in industry
 
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
@@ -799,6 +800,16 @@ Assessment of impact in sector
 * Availability of data
 * Ripeness for disruption
 
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+### Deep dive discussion
+* Select one of the AI applications
+* Pick an industry
+* Let'As deep dive on economic dangers
+* Find out key actions that could be taken
+
+
 
 [NEXT SECTION]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
@@ -818,17 +829,7 @@ Assessment of impact in sector
 > 
 > Mitigations
 
-#### + Deep dive
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
-
-### Deep dive discussion
-* Select one of the AI applications
-* Pick an industry
-* Let's deep dive on economic dangers
-* Find out key actions that could be taken
-
+#### Next session: Deep dive
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
@@ -844,7 +845,7 @@ https://axsauze.github.io/machine-learning-global/index.html#/
 
 <h2>The Institute for Ethical AI & ML</h2>
 
-<h4>AI and its Impact across Sectors & Nation States</h4>
+<h4>Cybersecurity in an AI enabled world</h4>
 
 <table class="bio-table">
   <tr>
@@ -852,7 +853,6 @@ https://axsauze.github.io/machine-learning-global/index.html#/
         ![portrait](images/alejandro.jpg)
         <br>
         <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
-        <br>
         <br>
     </td>
     <td style="float: left; color: white; font-size: 0.7em;">
