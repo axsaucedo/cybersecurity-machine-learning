@@ -65,13 +65,23 @@
 > The Institute & the Ethical ML Pledge
 > <br>
 > <br>
-> ML, Cyber and Implications
+> Intuition on AI & ML
 >
-> Impact in economy
+> AI-enabled Cyber
 > 
-> Next steps
+> Mitigations
 
 #### Followed by a deep dive discussion
+
+[NEXT]
+<!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
+
+### This is by far the
+
+## Biggest burning platform 
+
+# in AI & ML
+
 
 [NEXT]
 <!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
@@ -85,15 +95,21 @@
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" -->
 
-#### Our vision is to set standards and industry frameworks for industrial development of AI
+#### Core focus: Artificial Intelligence, Machine Learning & Cybersecurity.
 <iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
+#### <a href="http://ethical.institute">http://ethical.institute</a>
 
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" -->
 
-## Mission
-To become the platform that empowers technology leaders through
-industry frameworks that ensure the long-term ethical development of AI
+## About the institute
+
+We are the technology leaders spearheading the AI revolution.
+
+We are building the intersection between the tech sector and policy/academia.
+
+We build practical industry frameworks in ML & Cyber that ensure the long term development
+of AI.
 
 [NEXT]
 <!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
@@ -141,8 +157,10 @@ industry frameworks that ensure the long-term ethical development of AI
 <!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
 
 <br>
-### Let's find out what ML IS 
-### and what ML is NOT
+### AI is changing the nation. Cyber is it's biggest burning platform.
+
+<br>
+## Let's dive in
 
 [NEXT SECTION]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -528,6 +546,16 @@ divulging confidential information that may be used for fraudulent purposes
 * 2011 RSA SecurID Phishing Attack
 * Iran's Stuxnet Flash Drives on the floor
 
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+# It's not about IF
+
+# It's about WHEN
+
+
+
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
@@ -762,9 +790,6 @@ Analysis of applications, players and impact of AI enabled cybersecurity across 
 | | | | |
 
 
-<br>
-(Case study be a demo on finance)
-
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
@@ -774,6 +799,95 @@ Assessment of impact in sector
 * Availability of data
 * Ripeness for disruption
 
+
+[NEXT SECTION]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+# 5. Wrapping up
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
+
+## Today we covered
+
+> The Institute & the Ethical ML Pledge
+> <br>
+> <br>
+> Intuition on AI & ML
+>
+> AI-enabled Cyber
+> 
+> Mitigations
+
+#### + Deep dive
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+
+### Deep dive discussion
+* Select one of the AI applications
+* Pick an industry
+* Let's deep dive on economic dangers
+* Find out key actions that could be taken
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background" -->
+### Code
+https://github.com/axsauze/machine-learning-global
+
+### Slides
+https://axsauze.github.io/machine-learning-global/index.html#/
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background" -->
+
+<h2>The Institute for Ethical AI & ML</h2>
+
+<h4>AI and its Impact across Sectors & Nation States</h4>
+
+<table class="bio-table">
+  <tr>
+    <td style="float: left">
+        ![portrait](images/alejandro.jpg)
+        <br>
+        <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
+        <br>
+        <br>
+    </td>
+    <td style="float: left; color: white; font-size: 0.7em;">
+
+        <br>
+        Head of Deployed Engineering
+        <br>
+        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
+        <br>
+        <br>
+        Chairman
+        <br>
+        <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
+        <br>
+        <br>
+        Fellow (AI, Data & ML)
+        <br>
+        <a style="color: cyan" href="#">The RSA</a>
+        <br>
+        <br>
+        Advisor
+        <br>
+        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
+        <br>
+
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+[NEXT SECTION]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+# 6. Appendix
 
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
@@ -1019,80 +1133,5 @@ But also with mobile phones, cars, computers, TVs, etc.
 
 ## AI Policy around the world
 
-
-[NEXT SECTION]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
-# 5. Deep Dive Discussion
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
-### Proposed agenda
-* Deep dive on questions
-* Run AI industry analysis process
-* Next steps
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
-
-### Deep dive discussion
-* Select one of the AI applications
-* Pick an industry
-* Let's deep dive on economic dangers
-* Find out key actions that could be taken
-
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
-### Code
-https://github.com/axsauze/machine-learning-global
-
-### Slides
-https://axsauze.github.io/machine-learning-global/index.html#/
-
-
-[NEXT]
-<!-- .slide: data-background="images/network-background.jpg" class="background" -->
-
-<h2>The Institute for Ethical AI & ML</h2>
-
-<h4>AI and its Impact across Sectors & Nation States</h4>
-
-<table class="bio-table">
-  <tr>
-    <td style="float: left">
-        ![portrait](images/alejandro.jpg)
-        <br>
-        <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
-        <br>
-        <br>
-    </td>
-    <td style="float: left; color: white; font-size: 0.7em;">
-
-        <br>
-        Head of Deployed Engineering
-        <br>
-        <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
-        <br>
-        <br>
-        Chairman
-        <br>
-        <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
-        <br>
-        <br>
-        Fellow (AI, Data & ML)
-        <br>
-        <a style="color: cyan" href="#">The RSA</a>
-        <br>
-        <br>
-        Advisor
-        <br>
-        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
-        <br>
-
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
 
 
