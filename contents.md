@@ -502,7 +502,7 @@ the measures taken to achieve this through
 * Malware (Viruses, Ransomware [Wannacry], etc)
 * Phishing
 * Spyware / adware
-* Man in teh middle
+* Man in the middle
 * Denial of Service (DoS)
 * Vulnerable Software
 
@@ -528,21 +528,111 @@ divulging confidential information that may be used for fraudulent purposes
 * 2011 RSA SecurID Phishing Attack
 * Iran's Stuxnet Flash Drives on the floor
 
-
-[NEXT SECTION]
+[NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
+## Putting it all together
 
-# Overview
+What are the new challenges we'll face with AI systems?
 
-Analysis of applications, players and impact of ML across sectors
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-Followed by a case study
+## Synthetic Face Generation
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/AmUC4m6w1wo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=18&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## Synthetic Voice Generation
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318661840&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Using bots on top of voice
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/bd1mEm2Fy08?rel=0&amp;controls=0&amp;showinfo=0&amp;start=60&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## And there's already a global bot industry
+<iframe data-src="https://www.technologyreview.com/s/611123/inside-the-business-model-for-botnets/" style="width: 100%; height: 50vh"></iframe>
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
+## Tricking Machine Learning Classifiers
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/i1sp4X57TL4?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+# We could say
+## AI has a Hallucination problem that’s hard to Fix...
+
+
+[NEXT]
+## It becomes a problem with cars...
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/c_5EH3CBtD0?rel=0&amp;controls=1&amp;showinfo=0&amp;start=60&amp;mute=1&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+[NEXT]
+## Did anyone say robots?
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/knoOXBLFQ-s?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[NEXT]
+## Or maybe drones...
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/TlO2gcs1YvM?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=47" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## How do we defend?
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/HluANRwPyNo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Disclaimer: It's not that exciting
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## But Machine Learning will help
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## Cyberattacks are in your data
+
+* Application logs
+* Server logs
+* Network logs
+* Login information
+* Security footage
+* And more...
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## It's not easy to find
+
+* There is TONS of data
+* A lot of it is not structured
+* It's almost impossible for a human
+* Real-time alerts are required
+* Anomality detection is hard
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## But ML allows this
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/b6Hf1O_vpwQ?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=18&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
 ## Core ML Applications
 
@@ -559,6 +649,92 @@ Followed by a case study
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Data is more personalised
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/pon3zOxMH8M?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=18&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## (Company owned by Sergey Brin's wife)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## The public (and staff) need to be educated
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+Would you let staff bring strangers to meetings?
+
+## What about these?
+
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Researchers are Expensive...
+<iframe data-src="https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html" style="width: 100%; height: 60vh"></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## And so are cyber consultants
+<iframe data-src="https://securious.co.uk/cybersecurity-experts-charge-10000-a-day-to-protect-uks-top-firms/" style="width: 100%; height: 60vh"></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## AI & Cyber-intel
+
+## Mostly in the private sector
+<br>
+
+Article: 
+<a href="https://www.nytimes.com/2018/05/04/technology/facebook-artificial-intelligence-researchers.html">
+    Facebook Adds A.I. Labs in Seattle and Pittsburgh, Pressuring Local Universities
+</a>
+
+<br>
+### This is risky for nation states...
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## Regulation and public frameworks
+# Are critical
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## But still far (e.g. GDPR)
+<iframe data-src="https://www.crowdemotion.co.uk/" style="width: 100%; height: 50vh"></iframe>
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+“Artificial intelligence is the future, not only for us, but for all of humankind. It comes with colossal opportunities, but also threats that are difficult to predict. Whoever becomes the leader in this sphere will become the ruler of the world.”
+
+## Can you guess who said this?
+
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Let's see how this fits with the industry
+
+
+[NEXT SECTION]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+# 4. AI impact in industry
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+# Overview
+
+Analysis of applications, players and impact of AI enabled cybersecurity across sectors
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 
 ## Sectors:
@@ -574,10 +750,10 @@ Followed by a case study
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 
-## Sectors covered today:
+## Sectors for deep dive:
 
 | | | | |
 | - | - | - | - |
@@ -590,7 +766,7 @@ Followed by a case study
 (Case study be a demo on finance)
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 
 Assessment of impact in sector
@@ -600,9 +776,11 @@ Assessment of impact in sector
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
-# Opportunities
+# Manufacturing
+
+_note_
 * Predict failure and recommend proactive maintenance for equipment
 * Optimize complex manufacturing processes in real time
 * Predict future demand trends in supply chain
@@ -610,7 +788,7 @@ Assessment of impact in sector
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Agriculture 
 
@@ -632,7 +810,7 @@ agrosight
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Healthcare / Pharma
 _note_
@@ -656,7 +834,7 @@ Improbable
 GKN
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Politics
 _note_
@@ -680,7 +858,8 @@ Magic Pony Technology
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
 
 # Transport 
 _note_
@@ -702,7 +881,7 @@ Five.AI
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Education 
 _note_
@@ -723,7 +902,7 @@ Coursera
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Defense 
 _note_
@@ -744,7 +923,7 @@ The Eng Company
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 # Finance
 
@@ -765,25 +944,20 @@ Transferwise
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 ## [Demo](http://e-x.io/)
 
-<iframe style="height: 60vh; width: 100%;" src="http://e-x.io/">
+<iframe style="height: 60vh; width: 100%;" data-src="http://e-x.io/">
 </iframe>
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 
 A lot of this sounds good, but
 
 #### how's it going to affect the world?
-
-[NEXT SECTION]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# 4. AI impact in industry
 
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
@@ -841,15 +1015,6 @@ the total amount of coal required to power machines is greater and not less
 Yes, we have seen this with electricity
 
 But also with mobile phones, cars, computers, TVs, etc.
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-“Artificial intelligence is the future, not only for us, but for all of humankind. It comes with colossal opportunities, but also threats that are difficult to predict. Whoever becomes the leader in this sphere will become the ruler of the world.”
-
-<br>
-### Can you guess who's quote is this?
  
 
 ## AI Policy around the world
