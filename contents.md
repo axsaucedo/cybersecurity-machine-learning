@@ -834,10 +834,10 @@ Assessment of impact in sector
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 ### Code
-https://github.com/axsauze/machine-learning-global
+https://github.com/axsauze/cybersecurity-machine-learning
 
 ### Slides
-https://axsauze.github.io/machine-learning-global/index.html#/
+https://axsauze.github.io/cybersecurity-machine-learning
 
 
 [NEXT]
